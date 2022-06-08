@@ -1,2 +1,5 @@
 node_modules
-cors-anywhere
+.idea
+coverage
+.vscode
+.DS_Store
